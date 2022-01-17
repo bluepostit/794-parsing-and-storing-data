@@ -1,0 +1,18 @@
+{
+  "title": "Our favourite cities",
+  "cities": [
+    {
+      "name": "Tel Aviv",
+      "country": "Israel",
+      "language": [
+        "Hebrew",
+        "English"
+      ]
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "language": "Spanish"
+    }
+  ]
+}
